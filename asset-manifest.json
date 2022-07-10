@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Employee-Admin-Dashboard/static/css/main.50211839.css",
-    "main.js": "/Employee-Admin-Dashboard/static/js/main.61c6c3c5.js",
+    "main.js": "/Employee-Admin-Dashboard/static/js/main.26b6a45a.js",
     "static/media/pp.jpg": "/Employee-Admin-Dashboard/static/media/pp.814f99a5ad7133be4cc3.jpg",
     "index.html": "/Employee-Admin-Dashboard/index.html",
     "main.50211839.css.map": "/Employee-Admin-Dashboard/static/css/main.50211839.css.map",
-    "main.61c6c3c5.js.map": "/Employee-Admin-Dashboard/static/js/main.61c6c3c5.js.map"
+    "main.26b6a45a.js.map": "/Employee-Admin-Dashboard/static/js/main.26b6a45a.js.map"
   },
   "entrypoints": [
     "static/css/main.50211839.css",
-    "static/js/main.61c6c3c5.js"
+    "static/js/main.26b6a45a.js"
   ]
 }
