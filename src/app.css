@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  display: flex;
+}
+.others {
+  flex: 4;
+}
+
+.link{
+  text-decoration: none;
+  color: inherit;
+}
